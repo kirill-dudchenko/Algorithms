@@ -1,1 +1,1 @@
-# Studying algorithms by "Grokking Algorithms" book
+## Studying algorithms by "Grokking Algorithms" book
